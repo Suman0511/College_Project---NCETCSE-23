@@ -3,7 +3,7 @@ import nav from "../asserts/nav.png";
 
 function Navpic(){
     return(
-        <div>
+        <div className="navpic">
             <img src={nav} alt=""/>
         </div>
     )

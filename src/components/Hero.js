@@ -8,11 +8,11 @@ function Hero(){
        <div className="hero">
         <img src={PICIMAGE} alt=""/>
         <div className="hero-text">
-        <div class="col-md-6">
-         <div class="banner_taital_main">
-             <h1 class="banner_taital">NCETCSE-23</h1>
-                <p class="banner_text">NATIONAL CONFERENCE ON EMERGING TECHNOLOGIES <br/> IN <br/>COMPUTER SCIENCE AND ENGINEERING</p>
-                    <div class="started_bt"><a href="https://docs.google.com/forms/d/e/1FAIpQLSfmrCE3d0HfhMhd4NWdZPtHX5TbpLiHan2gSJOyJs5BAOBXbw/viewform">REgistration</a></div>
+        <div className="col-md-6">
+         <div className="banner_taital_main">
+             <h1 className="banner_taital">NCETCSE-23</h1>
+                <p className="banner_text">NATIONAL CONFERENCE ON EMERGING TECHNOLOGIES <br/> IN <br/>COMPUTER SCIENCE AND ENGINEERING</p>
+                    <div className="started_bt"><a href="https://docs.google.com/forms/d/e/1FAIpQLSfmrCE3d0HfhMhd4NWdZPtHX5TbpLiHan2gSJOyJs5BAOBXbw/viewform">REgistration</a></div>
                          </div>
                          </div> 
         </div>
