@@ -1,0 +1,10 @@
+.navpic img {
+  width: 99.1vw;
+  height: 30vh;
+}
+@media (width <= 850px) {
+  .navpic img {
+    width: 100vw;
+    height: 15vh;
+  }
+}

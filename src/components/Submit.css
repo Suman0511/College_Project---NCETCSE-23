@@ -31,3 +31,17 @@
 .submit a{
     text-decoration: none;
 }
+@media screen and (max-width:850px){
+    .submit{
+        margin: 0;
+    }
+    .submit p{
+        font-size: 1.1rem;
+    }
+    .submit ul{
+        font-size: 1rem;
+    }
+    .submit li{
+        font-size: 1rem;
+    }
+}
