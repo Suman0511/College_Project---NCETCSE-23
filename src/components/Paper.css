@@ -1,0 +1,17 @@
+.paper{
+    margin: 4.5rem;
+}
+
+.paper p{
+    font-size: 1.3rem;
+    font-weight: 400;
+    text-align: start;
+    margin: 10px;
+}
+
+.paper li{
+    font-size: 1.3rem;
+    font-weight: 400;
+    text-align: start;
+    margin: 10px;
+}

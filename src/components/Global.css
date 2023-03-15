@@ -1,0 +1,64 @@
+.global{
+       color: #2a2a2a;
+}
+
+.global img{
+    width: 100%;
+}
+
+.query-text{
+    background-color: #d3e8fb;
+}
+
+.query-text a{
+    font-size: 3rem;
+    background-color: #fff;
+    color: #000;
+    border-radius: 7px;
+    text-decoration: none;
+}
+
+.query-text a:hover{
+    background-color: rgb(251, 93, 120);
+    color: #000;
+    border-radius: 4px;
+    transition:all 0.2s ease-in-out;
+}
+
+.global h1{
+    font-size: 3rem;
+}
+
+.global p{
+    font-size: 1.3rem;
+}
+
+.global ul{
+    display: grid;
+    grid-template-columns: repeat(2,auto);
+    grid-gap:5px;
+    list-style: none;
+    align-items: center;
+    font-size: 1.3rem;
+    width: 50%;
+    padding: 1rem 2rem;
+} 
+ 
+
+
+
+@media screen and(max-width:550px){
+    .global ul{
+        display: block;
+        margin: 5vh;
+    }
+
+    .global li{
+        display: block;
+        justify-content: space-between;
+        padding: 2rem 2rem 2rem 0;
+        text-align: start;
+    }
+
+
+}

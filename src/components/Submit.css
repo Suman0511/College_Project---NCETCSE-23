@@ -1,0 +1,33 @@
+.submit{
+    margin: 4.5rem;
+}
+
+.submit h1{
+    margin-bottom: 30px;
+}
+
+.submit p{
+    font-size: 1.3rem;
+    font-weight: 400;
+    text-align: start;
+    margin: 10px;
+}
+
+.submit ul{
+    font-size: 1.3rem;
+    font-weight: 400;
+    text-align: start;
+    margin: 10px;
+}
+
+.submit li{
+    font-size: 1.3rem;
+    font-weight: 400;
+    text-align: start;
+    margin: 10px;
+    text-decoration: none;
+}
+
+.submit a{
+    text-decoration: none;
+}
