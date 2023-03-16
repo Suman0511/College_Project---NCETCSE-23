@@ -1,5 +1,5 @@
 .navpic img {
-  width: 99.1vw;
+  width: 100%;
   height: 30vh;
 }
 @media (width <= 850px) {
