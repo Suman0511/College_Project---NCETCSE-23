@@ -5,7 +5,7 @@
 
 .hero-text{
     position: absolute;
-    top: 35%;
+    top: 25%;
     left: 50%;
     transform: translate(-50%,50%);
     width: 100%;
@@ -126,4 +126,18 @@
         font-weight:bold
     }
 
+}
+@media ((width >= 200px) and (width <= 280px)){
+    .hero-text{
+        position: absolute;
+        top: -24%;
+        left: 50%;
+        transform: translate(-50%,50%);
+        width: 100%;
+        float: left;
+        padding: 100px 0px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
 }
