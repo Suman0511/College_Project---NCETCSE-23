@@ -8,13 +8,9 @@ function Organ(){
 
             <ul>
                 <li>
-                    <h4>Time</h4>
-                    <p>Venue</p>
-                </li>
-
-                <li>
-                    <h4>9:00 AM Onwards</h4>
-                    <p> Auditorium, GITM</p>
+                    <h4>CONFERENCE DATE: <br/> 28 APRIL 2023 <br/>(FRIDAY)</h4>
+                    <h4>TIME: <br/> 9:00 AM ONWARDS</h4>
+                    <h4> VENUE: <br/> GLOBAL INSTITUTE OF <br/>TECHNOLOGY AND MANAGEMENT <br/>FARRUKHNAGAR, GURGAON, HARYANA </h4>
                 </li>
             </ul>
         </div>

@@ -11,7 +11,7 @@ function Hero(){
         <div className="col-md-6">
          <div className="banner_taital_main">
              <h1 className="banner_taital">NCETCSE-23</h1>
-                <p className="banner_text">NATIONAL CONFERENCE ON EMERGING TECHNOLOGIES <br/> IN <br/>COMPUTER SCIENCE AND ENGINEERING</p>
+                <p className="banner_text">NATIONAL CONFERENCE ON EMERGING TECHNOLOGIES <br/> IN <br/>COMPUTER SCIENCE AND ENGINEERING <br/>CONFERENCE PROCEEDINGS ISBN:978-93-5813-653-1 </p>
                     <div className="started_bt"><a href="https://docs.google.com/forms/d/e/1FAIpQLSfmrCE3d0HfhMhd4NWdZPtHX5TbpLiHan2gSJOyJs5BAOBXbw/viewform">REgistration</a></div>
                          </div>
                          </div> 
