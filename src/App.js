@@ -4,7 +4,7 @@ import { Route, Routes } from "react-router-dom";
 import Home from "./routes/Home";
 import Submission from "./routes/Submission";
 import Committee from "./routes/Committees";
-import Paper from "./routes/Call_for_Paper";
+import Tracks from "./routes/Call_for_Paper";
 import Contact from "./routes/Contact";
 export default function App(){ 
     return (
@@ -13,7 +13,7 @@ export default function App(){
             <Route path ="/"element={<Home/>}/>
             <Route path ="submission"element={<Submission/>}/>
             <Route path ="committee"element={<Committee/>}/>
-            <Route path ="callforpaper"element={<Paper/>}/>
+            <Route path ="track"element={<Tracks/>}/>
             <Route path ="contact"element={<Contact/>}/>
           </Routes>
             

@@ -27,7 +27,7 @@ const Destination = ()=>{
     />
 
 <DestinationData 
-className="first-des"
+className="first-des-reverse"
     heading="ABOUT GURUGRAM UNIVERSITY"
     text="Gurugram University is a synonym for excellence in education. The students from every nook and corner of the 
     country and from every group and stratum of society live, learn and play in the sprawling lush green; campus, nestled 
@@ -52,7 +52,7 @@ className="first-des"
     /> 
 
 <DestinationData 
-className="first-des"
+className="first-des-reverse"
     heading="ABOUT CONFERENCE"
     text="The “National Conference on Emerging Technologies in Computer Science Engineering” (NCETCSE-23) aims to foster 
     collaboration and networking among researchers, students, and practitioners from various domains of computer science 

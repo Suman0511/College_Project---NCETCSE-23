@@ -5,6 +5,7 @@ import Global from "../components/Global";
 import Navpic from "../components/Navpic";
 import Comit from "../components/Comit";
 import Query from "../components/Query";
+import Organ from "../components/Organisation ";
 
 function Committees(){
     return(
@@ -12,6 +13,7 @@ function Committees(){
         <Navpic/>
         <Navbar />
         <Hero />
+        <Organ/>
         <Comit/>
         <Global/>
         <Query/>

@@ -5,6 +5,7 @@ import Global from "../components/Global";
 import Navpic from "../components/Navpic";
 import Submit from "../components/Submit";
 import Query from "../components/Query";
+import Organ from "../components/Organisation ";
 
 
 
@@ -14,6 +15,7 @@ function Submission(){
         <Navpic/>
         <Navbar />
         <Hero/>
+        <Organ/>
         <Submit/>
         <Global/>
         <Query/>

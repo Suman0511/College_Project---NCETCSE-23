@@ -4,13 +4,13 @@ import "./Footer.css";
 import {BsLinkedin,BsInstagram,BsGithub} from "react-icons/bs";
 const Footer = () => {
   return (
-    <div className="footer">
+    <div className="footer"> 
       <div className="top">
         <div>
-          <a href="/">
+          <a href="https://www.facebook.com/gitm.gurgaon.india/">
             <i className="fa-brands fa-square-facebook"></i>
           </a>
-          <a href="/">
+          <a href="https://www.instagram.com/gitm_gurgaon/">
             <i className="fa-brands fa-instagram-square"></i>
           </a>
           <a href="/">
@@ -19,37 +19,14 @@ const Footer = () => {
         </div>
       </div>
 
-      <div className="bottom">
-        <div>
-          <h4>
-            <a href="home">Home</a>
-          </h4>
-        </div>
-        <div>
-          <h4>
-            <a href="tracks">Tracks</a>
-          </h4>
-        </div>
-        <div>
-          <h4>
-            <a href="registration">Registration</a>
-          </h4>
-        </div>
-        <div>
-          <h4>
-            <a href="contact">Contact</a>
-          </h4>
-        </div>
-      </div>
-
         <h3>Developers</h3>
       <div className="link">
         <div className="link1">
             <h4>Suman Kumari</h4>
             <div className="social-links">
-                <Link to=""><BsLinkedin size={25}/></Link>
-                <Link to=""><BsInstagram size={25}/></Link>
-                <Link to=""><BsGithub size={25}/></Link>
+                <Link to="linkedin.com/in/suman-kumari-7157061b8"><BsLinkedin size={25}/></Link>
+                <Link to="https://www.instagram.com/sumanhr26/"><BsInstagram size={25}/></Link>
+                <Link to="https://github.com/Suman0511"><BsGithub size={25}/></Link>
             </div>
         </div>
         <div className="link1">

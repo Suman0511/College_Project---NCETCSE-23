@@ -4,7 +4,7 @@ const PICIMAGE = new URL("../asserts/front view (1).jpg",import.meta.url)
 function Hero(){
     return(
         <>
-       <div className="Inner-hero">
+       <div className="Inner-hero"> 
        <div className="hero">
         <img src={PICIMAGE} alt=""/>
         <div className="hero-text">

@@ -5,6 +5,7 @@ import Footer from "../components/Footer";
 import Global from "../components/Global";
 import Navpic from "../components/Navpic";
 import Query from "../components/Query";
+import Organ from "../components/Organisation ";
 
 function Home(){
     return(
@@ -12,6 +13,7 @@ function Home(){
         <Navpic/>
         <Navbar />
         <Hero/>
+        <Organ/>
         <Destination/>
         <Global/>
         <Query/>
