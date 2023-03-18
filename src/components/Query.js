@@ -1,6 +1,6 @@
 import "./query.css";
 import Dates from "../asserts/dates.png";
-import Map from "../asserts/map.png";
+import Map from "../asserts/contact.png";
 function Query(){
     return( 
         <div className="query">

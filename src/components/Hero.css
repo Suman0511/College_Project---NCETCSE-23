@@ -68,7 +68,7 @@
 
 @media (width <= 850px){
     .inner-hero{
-        width:100vw;
+        width:100%;
         overflow-x: hidden;
     }
     .hero{

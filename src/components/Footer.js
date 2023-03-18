@@ -13,9 +13,6 @@ const Footer = () => {
           <a href="https://www.instagram.com/gitm_gurgaon/">
             <i className="fa-brands fa-instagram-square"></i>
           </a>
-          <a href="/">
-            <i className="fa-brands fa-twitter-square"></i>
-          </a>
         </div>
       </div>
 
